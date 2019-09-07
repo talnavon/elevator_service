@@ -136,11 +136,3 @@ class ElevatorSystem:
 #     es = ElevatorSystem(floor_count=50, elevator_count=4)
 #     es.call_elevator(floor=12, direction=1)
 #     es.call_elevator(floor=10, direction=-1)
-
-
-
-
-
-
-
-
